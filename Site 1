@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olá gih, te amo!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        main {
+            padding: 2em;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 1em;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Olá gi, te amo!</h1>
+    </header>
+
+    <main>
+        <h2>Bem-vinda, esse é um teste básico de programação!</h2>
+        <p>Este é um exemplo simples de uma página web.</p>
+        <p>eu adoraria poder fazer mais coisas aqui...</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Meu Site de Exemplo</p>
+    </footer>
+
+</body>
+</html>
